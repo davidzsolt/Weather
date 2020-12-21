@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="celsius_postfix">%1$s °C</string>
+    <string name="refresh_error">Frissítés sikertelen!</string>
+
+    <string name="sharedpref_file_key">Frissítés sikertelen!</string>
+    <string name="sharedpref_temp">SHAREDPREF_TEMP</string>
+    <string name="sharedpref_temp_name">SHAREDPREF_TEMP_NAME</string>
+    <string name="sharedpref_icon_name">SHAREDPREF_ICON_NAME</string>
+    <string name="loaded_from_server">Data loaded from server</string>
+    <string name="loading_from_cache">Loading from cache...</string>
+    <string name="sharedpref_date">SHAREDPREF_DATE</string>
+
+</resources>
